@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-businesslog_agent/__init__.py
-businesslog_agent.egg-info/PKG-INFO
-businesslog_agent.egg-info/SOURCES.txt
-businesslog_agent.egg-info/dependency_links.txt
-businesslog_agent.egg-info/requires.txt
-businesslog_agent.egg-info/top_level.txt
-tests/test_businesslog_agent.py
